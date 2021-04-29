@@ -4,4 +4,4 @@ This is a 3d representation of the popup Christmas card I made for my grandma a 
 
 You can zoom in and move the card around!
 
-![Screenshot of page](https://github.com/HannahRipley17/christmascard/img/screenshot.png)
+![Screenshot of page](https://github.com/HannahRipley17/christmascard/blob/main/img/screenshot.png?raw=true)
