@@ -4,4 +4,4 @@ This is a 3d representation of the popup Christmas card I made for my grandma a 
 
 You can zoom in and move the card around!
 
-![Screenshot of page]("/img/screenshot.png");
+![Screenshot of page](img/screenshot.png)
